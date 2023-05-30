@@ -1,0 +1,2 @@
+Santali Dialect Detection
+
